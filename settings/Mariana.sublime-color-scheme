@@ -1,0 +1,95 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+		"yellow": "hsl(58, 91%, 55%)",
+
+		"green1": "hsl(125, 100%, 50%)",
+		"green2": "hsl(122, 100%, 30%)",
+		"green": "hsl(114, 31%, 68%)",
+
+		"purple": "hsl(298, 100%, 50%)",
+		"purple2": "hsl(298, 100%, 26%)",
+		"purple3": "hsl(298, 100%, 14%)",
+		"purple41": "hsl(273, 100%, 40%)",
+		"purple4": "hsl(273, 100%, 21%)",
+		"purple5": "hsl(273, 100%, 12%)",
+
+		"blue7": "hsl(230, 56%, 34%)",
+		"blue8": "hsl(230, 54%, 24%)",
+		"blue9": "hsl(237, 98%, 13%)",
+
+		"orange": "hsl(32, 93%, 66%)",
+		"orange2": "hsl(32, 85%, 55%)",
+		"orange3": "hsl(40, 94%, 68%)",
+		"orange4": "hsl(32, 100%, 50%)",
+		
+
+		"black": "hsl(0, 0%, 0%)",
+        "blue": "hsl(210, 50%, 60%)",
+        "blue-vibrant": "hsl(210, 60%, 60%)",
+        "blue2": "hsla(210, 13%, 40%, 0.7)",
+        "blue3": "hsl(210, 15%, 22%)",
+        "blue4": "hsl(210, 13%, 45%)",
+        "blue5": "hsl(180, 36%, 54%)",
+        "blue6": "hsl(221, 12%, 69%)",
+        
+        "grey": "hsl(0, 0%, 20%)",
+        "grey1": "hsl(32, 0%, 49%)",
+        "grey2": "hsl(32, 0%, 37%)",
+        "grey3": "hsl(32, 0%, 27%)",
+
+
+        "pink": "hsl(300, 30%, 68%)",
+        "red": "hsl(357, 79%, 65%)",
+        "red2": "hsl(13, 93%, 66%)",
+        "white": "hsl(0, 0%, 100%)",
+        "white2": "hsl(0, 0%, 97%)",
+        "white3": "hsl(219, 28%, 88%)"
+	},
+	"globals":
+	{
+		"background": "hsl(10, 0%, 10%)",
+		"line_highlight": "var(black)",
+
+        "foreground": "var(white3)",
+        "accent": "var(blue-vibrant)",
+        "caret": "var(orange)",
+        
+
+        "misspelling": "var(red)",
+        "shadow": "color(var(black) alpha(0.25))",
+        "active_guide": "var(blue5)",
+        "stack_guide": "color(var(blue5) alpha(0.5))",
+
+        "brackets_options": "underline bold",
+        "brackets_foreground": "var(orange4)",
+        "bracket_contents_options": "underline",
+        "bracket_contents_foreground": "var(blue5)",
+
+        "tags_options": "stippled_underline",
+        "tags_foreground": "var(pink)",
+
+		"highlight": "var(red)",
+		"find_highlight": "var(yellow)",
+        "find_highlight_foreground": "var(black)",
+        "scroll_selected_highlight": "var(red)",
+
+
+        "selection": "var(blue2)",
+        // "selection_foreground": "hsla(210, 0%, 0%, 0.7)",
+        "selection_border": "var(green1)",
+        "selection_border_width": "2",
+        "inactive_selection": "var(blue9)",
+        "inactive_selection_border": "var(green2)",
+        // "inactive_selection_foreground": "var(purple4)",
+
+        "gutter": "hsl(0, 0%, 5%)",
+        "gutter_foreground_highlight": "var(yellow)",
+        "gutter_foreground": "var(grey3)",
+	},
+	"rules":
+	[
+		
+	]
+}

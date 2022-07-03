@@ -1,0 +1,100 @@
+{
+  "replacements": {
+    "add_line_to_comma": {
+      "find": ",",
+      "replace": ",\n",
+      "greedy": true,
+      "case": false
+    },
+    "add_line_to_equal": {
+      "find": "=",
+      "replace": "=\n",
+      "greedy": true,
+      "case": false
+    },
+    "add_line_to_two_dots": {
+      "find": ":",
+      "replace": ":\n",
+      "greedy": true,
+      "case": false
+    },
+    "add_line_to_ampersand": {
+      "find": "&",
+      "replace": "&\n",
+      "greedy": true,
+      "case": false
+    },
+
+
+    "object_indent_1": {
+      "find": "()",
+      "replace": "{}",
+      "greedy": true,
+      "case": false
+    },
+    "object_indent_2": {
+      "find": "(",
+      "replace": "{",
+      "greedy": true,
+      "case": false
+    },
+    "object_indent_3": {
+      "find": ")",
+      "replace": "}",
+      "greedy": true,
+      "case": false
+    },
+    "object_indent_4": {
+      "find": "[",
+      "replace": "{",
+      "greedy": true,
+      "case": false
+    },
+    "object_indent_5": {
+      "find": "]",
+      "replace": "}",
+      "greedy": true,
+      "case": false
+    },
+    "object_indent_6": {
+      "find": "=}",
+      "replace": "=null}",
+      "greedy": true,
+      "case": false
+    },
+    "object_indent_7": {
+      "find": "=,",
+      "replace": "=null,",
+      "greedy": true,
+      "case": false
+    },
+
+    "object_indent_8": {
+      "find": "\n ",
+      "replace": "\n",
+      "greedy": true,
+      "case": false
+    },
+
+    "object_indent_9": {
+      "find": "{",
+      "replace": "\n{\n",
+      "greedy": true,
+      "case": false
+    },
+
+    "object_indent_10": {
+      "find": "}",
+      "replace": "\n}\n",
+      "greedy": true,
+      "case": false
+    },
+
+    "object_indent_11": {
+      "find": ",",
+      "replace": "\n,\n",
+      "greedy": true,
+      "case": false
+    }
+  }
+}

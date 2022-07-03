@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"ChangeQuotes",
+		"Color Highlight",
+		"ColorPicker",
+		"CommandsBrowser",
+		"Compare Side-By-Side",
+		"Default File Type",
+		"GitGutter",
+		"JSON Key-Value",
+		"Kotlin",
+		"Multicommand",
+		"Pretty JSON",
+		"RainbowBrackets",
+		"RegReplace",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-javac",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-mdl",
+		"SublimeLinter-xmllint",
+		"Terminal",
+		"Theme - One",
+		"UnicodeMath",
+		"url-utils",
+		"WordCount",
+		"WordHighlight",
+	],
+}
